@@ -2,24 +2,27 @@
 title: Growing Botryococcus
 description: 
 published: true
-date: 2021-03-12T10:09:42.537Z
+date: 2021-03-12T10:19:57.856Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-12T10:06:16.243Z
 ---
 
-A vital element of the economic production of Algae Biofuels is growing the algae efficiently. Botryococcus is often described as relatively difficult to grow; however, this should be viewed as a relative comparison to other algae rather than an absolute statement. It is certainly not as difficult as many tissue culture systems and the like, but it is easy to neglect its needs because it is such a slow grower (and then it equally slow to recover). There is also very limited well-documented efforts where one has gone beyond simple 'maintenance' of cultures. We hope to provide within these documents a description that will convey experience to allow someone to rapidly get to 'happy cultures' and try to minimize the 'art' as opposed to rationale considerations that are based on expereince.
+A vital element of the economic production of Algae Biofuels is growing the algae efficiently. Botryococcus is often described as relatively difficult to grow; however, this should be viewed as a relative comparison to other algae rather than an absolute statement. It is certainly not as difficult as many tissue culture systems and the like, but it is easy to neglect its needs because it is such a slow grower (and then it equally slow to recover). There is also very limited well-documented efforts where one has gone beyond simple 'maintenance' of cultures. We hope to provide within these documents a description that will convey experience to allow someone to rapidly get to 'happy cultures' and try to minimize the 'art' as opposed to rationale considerations that are based on experience.
 
-We have grown Botryococcus on very high light (~1000 uE/m2/s), low light, very high density, 5% CO2 and even air. All are possible, though remember that adaptation for a slow growing organism requires many months.
+We have grown Botryococcus on very high light (~1000 uE/m<sup>2</sup>/s), low light, very high density, 5% CO<sub>2</sub> and even air. All are possible, though remember that adaptation for a slow growing organism requires many months.
 
 ## General Plant Growth Standards
-
 
 ### Foreign Bacteria/Contaminants
 
 There are very few reports of axenic, or non-contaminated, B. braunii race B cultures in the literature. There are only two labs in the world that are known to hold axenic cultures of B. braunii, Curtislab at Penn State University and a lab in Japan (Citation needed).
 
-One method to create axenic samples of B. braunii race B is to use "a serial n-hexane pretreatment followed by a 15-second wash with sodium hypochlorite and distribution of 200 microliters of aliquots into sterile eppitubes." [1] Making an axenic culture of B. braunii will facilitate large-scale growth of the algae for economical biofuel production. Axenic cultures are also significantly easier to sequence than contaminated ones.
+One method to create axenic samples of B. braunii race B:
+
+> a serial n-hexane pretreatment followed by a 15-second wash with sodium hypochlorite and distribution of 200 microliters of aliquots into sterile eppitubes. [1]
+
+Making an axenic culture of B. braunii will facilitate large-scale growth of the algae for economical biofuel production. Axenic cultures are also significantly easier to sequence than contaminated ones.
 
 ### B. braunii Growth
 
